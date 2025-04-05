@@ -33,6 +33,7 @@ Dashboard creation and interactivity features
 Install Tableau
 
 Download Tableau Free Trial
+![Uploading Screenshot (690).png…]()
 
 Register using the same email used on Forage.
 
